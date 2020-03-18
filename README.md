@@ -1,5 +1,5 @@
 # li_vanrossum_19
-This contains the simulation code to our paper.
+This contains the simulation code to our paper, https://doi.org/10.7554/eLife.50804.
 
 List of files perceptron code to produce the data for Figure 1 and can be edited to produce the data for the other figures related to the perceptron.
 - cperc.m: Octave file for simulating perceptron learning
